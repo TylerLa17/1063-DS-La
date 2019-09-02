@@ -1,6 +1,6 @@
 # 1063-DS-La
 
-![ ] (image1.jpeg)
+![ ](image1.jpeg)
 
 Tyler La
 
